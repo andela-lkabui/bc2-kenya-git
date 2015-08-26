@@ -2,7 +2,7 @@ function hello(iter) {
 
 	for (var i=0; i<iter; i++) {
 
-		console.log('Say Hello');
+		console.log('Say Hello ... '+i);
 
 	}
 
