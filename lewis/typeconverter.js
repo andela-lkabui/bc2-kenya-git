@@ -63,7 +63,7 @@ function typeConverter(x) {
         
     }
     
-}
+};
 
 
 console.log( typeConverter( 32.0000001 ) );
